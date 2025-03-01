@@ -20,11 +20,11 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ukihunter/Simple-server
 Navigate to the project directory:
 
 ```bash
-cd <project_directory>
+cd server
 ```
 Install the required dependencies:
 ```bash
